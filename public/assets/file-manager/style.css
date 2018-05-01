@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 25 Mar, 2018, 8:50:44 PM
+    Author     : Shridhar
+*/
+label {
+  margin: 0;
+}
+.position-fixed {
+  position: fixed !important;
+}
+.flex-auto-height {
+  max-height: inherit !important;
+}
+.fit-image {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+.fit-image.stretch {
+  object-fit: cover;
+}
+.font-12 {
+  font-size: 12px;
+}
+.font-10 {
+  font-size: 10px;
+}
+/*# sourceMappingURL=style.css.map */

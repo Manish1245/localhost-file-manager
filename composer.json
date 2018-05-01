@@ -1,0 +1,26 @@
+{
+    "name": "shridharkaushik29/localhost-file-manager",
+    "description": "A file manager for localhost",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shridhar Sharma",
+            "email": "shridharkaushik29@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fideloper/proxy": "^4.0",
+        "laravel/framework": "5.4.*",
+        "laravel/tinker": "^1.0",
+        "shridharkaushik29/laravel-angular-app": "dev-master",
+        "shridharkaushik29/laravel-webservices": "dev-master"
+    },
+    "require-dev": {
+        "filp/whoops": "^2.0",
+        "fzaninotto/faker": "^1.4",
+        "mockery/mockery": "^1.0",
+        "nunomaduro/collision": "^2.0",
+        "phpunit/phpunit": "^7.0"
+    },
+}
