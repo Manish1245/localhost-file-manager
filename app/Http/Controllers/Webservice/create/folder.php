@@ -1,9 +1,7 @@
 <?php
 
 $this->validate_request([
-    "path" => "required",
-    "name" => "required",
-//    "contents" => "required"
+    "name" => "required"
 ]);
 
 use Illuminate\Support\Facades\Storage;
