@@ -31,7 +31,7 @@ return [
                     "angular-material",
                     "angular-ui-router",
                     "angular-ui-ace",
-                    "ng-crud",
+                    "angular-crud",
                     "ng-route-title",
                     "bootstrap",
                     "font-awesome",
